@@ -1,0 +1,16 @@
+
+
+  .Home_Title{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    
+  }
+  .Home_Title > h1{
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 40px;
+  }
